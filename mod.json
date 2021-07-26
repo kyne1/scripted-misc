@@ -1,0 +1,9 @@
+{
+"name": "ares",
+"displayName": "[red]scripted-misc[]",
+"author": "kyne1",
+"description": "test",
+"version": "1.0",
+"minGameVersion": "105",
+"dependencies": [ ],
+}
