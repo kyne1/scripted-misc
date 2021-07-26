@@ -6,7 +6,7 @@ const units = [
   "grouper",
   "warper",
   "swarm",
-  "/ai/ares-ai",
+  "ai/ares-ai",
 ];
 
 const abilities = [
